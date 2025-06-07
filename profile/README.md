@@ -1,0 +1,1 @@
+AI-Tournaments have been renamed to [Algorithmic Games](https://github.com/AlgorithmicGames).
